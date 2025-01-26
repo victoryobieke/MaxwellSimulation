@@ -22,7 +22,7 @@ Energy Norm: Tracks the energy conservation properties of the numerical scheme.
 
 Files
 
-main.m: Main script to run the simulation, visualize results, and compute error analysis.
+Main script to run the simulation, visualize results, and compute error analysis.
 
 Simulation Parameters
 
